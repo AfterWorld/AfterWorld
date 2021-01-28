@@ -34,8 +34,8 @@
 <h2>           📝 Contact me 📝</h2>
 <img src="https://www.picgifs.com/gifs/anime/monkey-d-luffy/monkey-SEjyvU.gif" align="right" width="373.5px" height="208.5px">
 <br>
-<p align="center">Here are some of my <br>
-most used socials</p>
+<p align="center">Here is where <br>
+you can find me</p>
 <p align="center"><a href="http://Opcdiscord.com/Community" target="_blank"><img src="https://img.shields.io/badge/OnePieceCommunity%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a></p>
 </div>
 <br>
@@ -44,7 +44,7 @@ most used socials</p>
 <div>
 <h2 align="center">Thanks for Taking Time out To Read!</h2>
 <div align="center">
-<img src="https://thumbs.gfycat.com/ElderlyNiceIsopod-size_restricted.gif">
+<img src="https://i.stack.imgur.com/KaTag.png">
 </div>
 <hr>
 </div>
