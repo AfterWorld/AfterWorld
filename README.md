@@ -1,7 +1,7 @@
 <h1 align="center">🏴‍☠️ Welcome to the Thousand Sunny! I'm Afterworld | UltPanda 🏴‍☠️</h1>
 
 <p align="center">
-  <img src="https://static.wikia.nocookie.net/onepiece/images/8/87/Thousand_Sunny_Infobox.png" alt="Thousand Sunny" width="100%">
+  <img src="https://static.wikia.nocookie.net/onepiece/images/b/b1/Thousand_Sunny_Infobox.png" alt="Thousand Sunny" width="100%">
 </p>
 
 <p align="center">
