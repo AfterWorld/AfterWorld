@@ -1,11 +1,11 @@
 <h1 align="center">🏴‍☠️ Welcome to the Thousand Sunny! I'm Afterworld | UltPanda 🏴‍☠️</h1>
 
 <p align="center">
-  <img src="https://github.com/AfterWorld/AfterWorld/raw/main/thousand-sunny-banner.png" alt="Thousand Sunny sailing" width="100%">
+  <img src="https://static.wikia.nocookie.net/onepiece/images/8/87/Thousand_Sunny_Infobox.png" alt="Thousand Sunny" width="100%">
 </p>
 
 <p align="center">
-  <img src="https://github.com/AfterWorld/AfterWorld/raw/main/wanted-poster.png" alt="Wanted Poster" width="300">
+  <img src="https://static.wikia.nocookie.net/onepiece/images/5/5e/Luffy%27s_Current_Wanted_Poster.png" alt="Wanted Poster" width="300">
 </p>
 
 <p align="center">
@@ -16,10 +16,10 @@
 
 <table align="center">
   <tr>
-    <td align="center"><img src="https://github.com/AfterWorld/AfterWorld/raw/main/panda-jolly-roger.png" width="100px" height="100px"></td>
-    <td align="center"><img src="https://github.com/AfterWorld/AfterWorld/raw/main/one-piece-logo.png" width="100px" height="100px"></td>
-    <td align="center"><img src="https://github.com/AfterWorld/AfterWorld/raw/main/den-den-mushi.png" width="100px" height="100px"></td>
-    <td align="center"><img src="https://github.com/AfterWorld/AfterWorld/raw/main/poneglyph.png" width="100px" height="100px"></td>
+    <td align="center"><img src="https://static.wikia.nocookie.net/onepiece/images/8/8c/Straw_Hat_Pirates%27_Jolly_Roger.png" width="100px" height="100px"></td>
+    <td align="center"><img src="https://static.wikia.nocookie.net/onepiece/images/2/2f/One_Piece_Logo.png" width="100px" height="100px"></td>
+    <td align="center"><img src="https://static.wikia.nocookie.net/onepiece/images/7/72/Den_Den_Mushi_Infobox.png" width="100px" height="100px"></td>
+    <td align="center"><img src="https://static.wikia.nocookie.net/onepiece/images/2/2b/Road_Poneglyph_Infobox.png" width="100px" height="100px"></td>
   </tr>
   <tr>
     <td align="center"><b>Panda Pirate</b></td>
@@ -63,7 +63,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/AfterWorld/AfterWorld/raw/main/one-piece-treasure.png" alt="One Piece Treasure" width="100%">
+  <img src="https://static.wikia.nocookie.net/onepiece/images/2/2b/One_Piece_Treasure.png" alt="One Piece Treasure" width="100%">
 </p>
 
 <p align="center">
@@ -72,9 +72,10 @@
 
 <!--
 Replace AfterWorld with your actual GitHub username in all instances above.
-Create and upload the following One Piece themed images to your GitHub repository:
-- thousand-sunny-banner.png (Thousand Sunny sailing)
-- wanted-poster.png (Your profile picture in a One Piece wanted poster style)
-- panda-jolly-roger.png, one-piece-logo.png, den-den-mushi.png, poneglyph.png (One Piece themed icons)
-- one-piece-treasure.png (One Piece treasure image for footer)
+The images used are placeholder images from the One Piece Wiki. For a personalized profile, replace these with your own custom images:
+- Thousand Sunny image
+- Your own "Wanted Poster" style image
+- Custom Jolly Roger or pirate flag
+- One Piece themed icons for your skills/interests
+- A custom One Piece treasure or footer image
 -->
